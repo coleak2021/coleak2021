@@ -6,3 +6,5 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=coleak2021" /> </div>
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=coleak2021&theme=xcode" /> </div>
+
